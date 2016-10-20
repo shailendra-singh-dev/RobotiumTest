@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RobotiumTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="prompt_input_number">Input number</string>
+    <string name="add_numbers">Add numbers</string>
+    <string name="prompt_input_number_first">First number</string>
+    <string name="prompt_input_number_second">Second number</string>
+    <string name="subtract_numbers">Substract Numbers</string>
+    <string name="multiply_numbers">Multiply Numbers</string>
+    <string name="devide_numbers">Devide numbers</string>
+</resources>
