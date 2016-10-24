@@ -1,12 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="menu_settings">Settings</string>
+    <string name="text_after_msg">Thanks for your submission</string>
+    <string name="text_intro">Select a Button</string>
+    <string-array name="mnth_array">
+        <item>Select Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
     <string name="app_name">RobotiumTest</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello World!</string>
-    <string name="prompt_input_number">Input number</string>
-    <string name="add_numbers">Add numbers</string>
-    <string name="prompt_input_number_first">First number</string>
-    <string name="prompt_input_number_second">Second number</string>
-    <string name="subtract_numbers">Substract Numbers</string>
-    <string name="multiply_numbers">Multiply Numbers</string>
-    <string name="devide_numbers">Devide numbers</string>
+    <string name="toggle_on">Toggle Button is ON</string>
+    <string name="toggle_off">Toggle Button is OFF</string>
+    <string name="image_btn_selected">Image Button is selected</string>
+    <string name="android_selected">Android is selected</string>
+    <string name="iphone_selected">iPhone is selected</string>
+    <string name="android_windows_iphone_selected">Android, Windows and iPhone OS are Selected</string>
+    <string name="android_windows_selected">Android and Windows are Selected</string>
+    <string name="android_iphone_selected">Android and iPhone are Selected</string>
+    <string name="windows_iphone_selected">Windows and iPhone are Selected</string>
+    <string name="android_os_selected">Android OS is Selected</string>
+    <string name="windows_os_selected">Windows OS is Selected</string>
+    <string name="iphone_os_selected">iPhone OS is Selected</string>
+    <string name="none_os_selected">None of the OS is Selected</string>
 </resources>
